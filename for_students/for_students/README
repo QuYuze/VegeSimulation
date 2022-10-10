@@ -1,0 +1,8 @@
+In this directory you will find a series of inputs and outputs from
+the jedi model. The directory also includes a bash script to load some
+required modules.
+If you are running on spartan you execute this with
+. modules.sh
+There is also a skeleton python script "read_script.py" to read the required
+variables and a demonstration of how to form annual means from these.
+
