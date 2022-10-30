@@ -22,7 +22,7 @@ Emulation of dynamic simulation models of vegetation growth
 **Professor In Climate Science\
 School of Geography, Earth and Atmospheric Sciences of University of Melbourne**
 ### Dr Jeremy Silver -- Program Supervisor
-**Research Fellow In Data Science
+**Research Fellow In Data Science\
 Mathematics and Statistics of University of Melbourne**
 ## Group information
 - Yuze qu：[yuzeq1@student.unimelb.edu.au](mailto:yuzeq1@student.unimelb.edu.au)
