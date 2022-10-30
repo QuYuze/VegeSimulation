@@ -43,6 +43,8 @@ Mathematics and Statistics of University of Melbourne**
 ### Report
 * [Overleaf](https://www.overleaf.com/read/jhrgzvxymcjd): https://www.overleaf.com/read/jhrgzvxymcjd
 
+***Keywords***— [JeDi-DGVM](https://bg.copernicus.org/articles/10/4137/2013/), [Surrogate Model](https://en.wikipedia.org/wiki/Surrogate_model#:~:text=A%20surrogate%20model%20is%20an,a%20function%20of%20design%20variables.), [Random Forest](https://link.springer.com/article/10.1007/s11749-016-0481-7), [Clustering](https://en.wikipedia.org/wiki/Cluster_analysis), [ARIMA](https://link.springer.com/chapter/10.1007/978-3-319-52452-8_3), [Long Short-Term Memory](https://link.springer.com/chapter/10.1007/978-3-642-24797-2_4)
 ## Clusters display
 ![77 Clusters](./plots/cluster.jpg)
 ![Cluster on global map](./plots/labels_cluster_geo.jpg)
+
