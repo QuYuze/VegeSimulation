@@ -8,6 +8,8 @@ Emulation of dynamic simulation models of vegetation growth
 ## Expected Outcomes
 * Short time-stamp prediction of NPP.
 * Simulated data (NPP)’s whole time-series emulation process with multiple period prediction.
+## Data 
+***The data is from the JeDi-DGVM which is provided by the project manager and supervisor. Because of the security issue all data from JeDi-DGVM will not be include in the repository, only the result will be displayed***
 ## Folder Description 
 * **ARIMA_models**: ARIMA models which are applies by the cluster.
 * **ARIMA_summary**: Summaries of ARIMA models which includes the key parameters, estimator, standard error and p-value.
