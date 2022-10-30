@@ -1,0 +1,18 @@
+"Dep. Variable:" y "No. Observations:" 202
+Model: ARIMA "Log Likelihood" 411.662
+Date: "Mon, 31 Oct 2022" AIC -811.325
+Time: 02:21:37 BIC -791.475
+Sample: 0 HQIC -803.294
+ "- 202"  
+"Covariance Type:" opg  
+ coef "std err" z P>|z| [0.025 0.975]
+const 0.5596 3.835 0.146 0.884 -6.956 8.075
+x1 0.0058 0.013000000000000001 0.431 0.6659999999999999 -0.021 0.032
+x2 5389.2833 0.002 3430000.0 0.0 5389.28 5389.286
+x3 0.0015 0.005 0.312 0.755 -0.008 0.011000000000000001
+x4 -0.002 0.003 -0.7070000000000001 0.48 -0.008 0.004
+sigma2 0.001 9.120000000000001e-05 10.901 0.0 0.001 0.001
+"Ljung-Box (L1) (Q):" 0.01 "Jarque-Bera (JB):" 4.09
+Prob(Q): 0.9 Prob(JB): 0.13
+"Heteroskedasticity (H):" 0.53 Skew: 0.2
+"Prob(H) (two-sided):" 0.01 Kurtosis: 3.58
