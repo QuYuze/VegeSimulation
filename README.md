@@ -9,14 +9,14 @@ Emulation of dynamic simulation models of vegetation growth
 * Short time-stamp prediction of NPP.
 * Simulated data (NPP)’s whole time-series emulation process with multiple period prediction.
 ## Folder Description 
-**ARIMA_models**: ARIMA models which are applies by the cluster.\
-**ARIMA_summary**: Summaries of ARIMA models which includes the key parameters, estimator, standard error and p-value.\
-**cluster_models**: main code which includes the process of data preprocessing, uilts, and models of cluster, ARIMA and LSTM.
-**LSTM_models**: LSTM models which are applies by the cluster.\
-**LSTM_summary**:Summaries of LSTM models which includes the information of each layer.\
-**Random_Forest**: Whole process for Random_forest with data preprocessing and modeling.\
-**numpy**: Arrays or label which is for modeling or plotting.\
-**plot**: Plots for summarizing and evaluation.\
+* **ARIMA_models**: ARIMA models which are applies by the cluster.\
+* **ARIMA_summary**: Summaries of ARIMA models which includes the key parameters, estimator, standard error and p-value.\
+* **cluster_models**: main code which includes the process of data preprocessing, uilts, and models of cluster, ARIMA and LSTM.\
+* **LSTM_models**: LSTM models which are applies by the cluster.\
+* **LSTM_summary**:Summaries of LSTM models which includes the information of each layer.\
+* **Random_Forest**: Whole process for Random_forest with data preprocessing and modeling.\
+* **numpy**: Arrays or label which is for modeling or plotting.\
+* **plot**: Plots for summarizing and evaluation.
 ## Client information:
 ### Prod Peter Rayner -- Project Manager
 **Professor In Climate Science\
