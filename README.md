@@ -38,7 +38,7 @@ Mathematics and Statistics of University of Melbourne**
 * [Overleaf](https://www.overleaf.com/read/zggqfftshbfb): https://www.overleaf.com/read/zggqfftshbfb
 ## MAST90106 - Project Part-2
 ### Presentation
-* [Googledoc](https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing): https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing
+* [Google doc](https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing): https://docs.google.com/presentation/d/1c67JZ0hg1SJYNk6pikyPvD__esQDJoaduzWXMD8hYZM/edit?usp=sharing
 * [Youtube](https://www.youtube.com/watch?v=0DoxLSOES4Q): https://www.youtube.com/watch?v=0DoxLSOES4Q
 ### Report
 * [Overleaf](https://www.overleaf.com/read/jhrgzvxymcjd): https://www.overleaf.com/read/jhrgzvxymcjd
